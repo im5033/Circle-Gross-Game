@@ -36,8 +36,7 @@ void check(char board[], char player) {
 	}
 }
 
-int main()
-{
+int main() {
 	int turn = 0;
 	int move;
 	char player = 'X';
